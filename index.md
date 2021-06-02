@@ -19,7 +19,7 @@ Please reach out with any questions or to connect: ashleybochner16@gmail.com
 Dr. L Jean Camp is a professor, whom I am honored to work with, in the Luddy School of Informatics, Computing, and Engineering at Indiana Unviersity. 
 Their area of research lies generally between privacy, psychology, economics and security. 
 
-You can learn more about Dr. L Jean Camp by visiting their website: http://ljean.com/index.php 
+You can learn more about Dr. L Jean Camp by visiting their website: <a href= "http://ljean.com/index.php"> 
 
 
 ## About My Project
