@@ -26,7 +26,7 @@ You can learn more about Dr. L Jean Camp by visiting their website: <a href= "ht
 
 We're conducting a survey about how people use two-factor authentication at the university and what method they use as second factor. We investigate their perception of the usability of different devices and if any method is more trustworthy or more secure. We will also be conducting interviews to ask people about their 2FA use and whether they use 2FA anywhere besides the university and what form they use. Push notifications, SMS messages, phone calls, physical tokens, etc.
 
-[My Final Report](files/DREU_Final_Report.pdf)
+[My Final Report](files/DREU_Final_Report (1).pdf)
 
 ## My Blog
 
